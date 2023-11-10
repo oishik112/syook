@@ -10,4 +10,5 @@ const SuccessRate = ({ successRate }) => {
   );
 };
 
+
 export default SuccessRate;
